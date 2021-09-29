@@ -1,4 +1,4 @@
-### Hey! I'm [@joseaminan](https://twitter.com/joseaminan) (José Antonio Minan) 👋 
+### Hey! I'm [@joseaminan](https://twitter.com/joseaminan) (José Antonio Miñán) 👋 
 
 <!--
 **joseaminan/joseaminan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
